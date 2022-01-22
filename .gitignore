@@ -1,0 +1,15 @@
+*
+
+!source/
+!source/**
+!3rdparty/
+!3rdparty/**
+
+!.gitignore
+!.editorconfig
+!.clang-format
+!.clang-tidy
+!README.md
+!LICENSE
+
+!CMakeLists.txt
